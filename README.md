@@ -1,2 +1,1 @@
-# harshithaitta.github.io
-Harshitha's Github profile
+Click [here](https://isribalaji.github.io) to view the website
