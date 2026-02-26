@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/harshithaitta.github.io/static/css/main.593465c2.chunk.css",
+    "main.css": "/harshithaitta.github.io/static/css/main.e76e6d53.chunk.css",
     "main.js": "/harshithaitta.github.io/static/js/main.0c47bd9d.chunk.js",
     "main.js.map": "/harshithaitta.github.io/static/js/main.0c47bd9d.chunk.js.map",
     "runtime-main.js": "/harshithaitta.github.io/static/js/runtime-main.339847d2.js",
@@ -8,7 +8,7 @@
     "static/js/2.b40932d1.chunk.js": "/harshithaitta.github.io/static/js/2.b40932d1.chunk.js",
     "static/js/2.b40932d1.chunk.js.map": "/harshithaitta.github.io/static/js/2.b40932d1.chunk.js.map",
     "index.html": "/harshithaitta.github.io/index.html",
-    "static/css/main.593465c2.chunk.css.map": "/harshithaitta.github.io/static/css/main.593465c2.chunk.css.map",
+    "static/css/main.e76e6d53.chunk.css.map": "/harshithaitta.github.io/static/css/main.e76e6d53.chunk.css.map",
     "static/js/2.b40932d1.chunk.js.LICENSE.txt": "/harshithaitta.github.io/static/js/2.b40932d1.chunk.js.LICENSE.txt",
     "static/media/a.txt": "/harshithaitta.github.io/static/media/a.8c5b220b.txt",
     "static/media/acm.png": "/harshithaitta.github.io/static/media/acm.2d74e273.png",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.339847d2.js",
     "static/js/2.b40932d1.chunk.js",
-    "static/css/main.593465c2.chunk.css",
+    "static/css/main.e76e6d53.chunk.css",
     "static/js/main.0c47bd9d.chunk.js"
   ]
 }
